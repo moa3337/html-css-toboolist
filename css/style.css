@@ -17,9 +17,9 @@ h1{
 
 .box{
     width: 700px;
-    height: 650px;
+    height: 550px;
     margin: 0 auto;
-    border-radius: 7%;
+    border-radius: 8%;
     border: 40px solid lightgray;
     background-color: white;
 }
@@ -27,7 +27,8 @@ h1{
 .buttons{
     width: 200px;
     margin-top: 10px;
-    margin-left: 30px;    
+    margin-left: 30px;
+    margin-bottom: 10px;    
 }
 
 .button1{
@@ -45,3 +46,53 @@ h1{
 	width: 70px;
     border-color: lightgray;
 }
+
+.part-1-2-3{
+    width: 100%;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.fonte{
+    background-color: lightskyblue;
+    border-radius: 30%;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+}
+
+.fonte-purple{
+    background-color: purple;
+    border-radius: 30%;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+}
+
+.fonte-green{
+    background-color: lightseagreen;
+    border-radius: 30%;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+}
+
+.fonte-orange{
+    background-color: orange;
+    border-radius: 30%;
+    color: white;
+    font-size: 9px;
+    padding: 3px;
+}
+
+.check{
+    color: lightgreen;
+    font-size: 20px;
+}
+
+.check-x{
+    color: red;
+    font-size: 20px;
+}
+
